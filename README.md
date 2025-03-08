@@ -28,13 +28,18 @@ Object-Oriented Programming (1980s-1990s): OOP languages like C++ and Java enabl
 //Answer:
 
 ~ Requirements: Gathering and documenting user needs and system requirements.
+
 ~ Design: Creating high-level and detailed designs of the software architecture and user 
 interface.
+
 ~ Implementation: Writing code and building the software according to the design 
 specifications.
+
 ~Testing: Conducting various tests to ensure the software meets quality standards and 
 functional requirements.
+
 ~ Deployment: Releasing the software to users or customers.
+
 ~ Maintenance: Providing ongoing support, updates, and enhancements to the software after 
 deployment.
 
@@ -44,6 +49,7 @@ deployment.
 //Answer:
 
 a.Waterfall Methodology
+
 -Structure: Linear and sequential. Each phase (e.g., Requirements, Design, Development, Testing, Deployment) must be completed before moving to the next one.
 
 -Flexibility: Limited flexibility; changes are difficult and costly once a phase is completed.
@@ -58,6 +64,7 @@ a.Waterfall Methodology
  real world example- Regulatory Compliance: In industries requiring strict documentation and adherence to regulations, such as pharmaceutical development.
 
 b.Agile Methodology
+
 -Structure: Iterative and incremental. Work is done in smaller cycles or sprints, with frequent reassessment and adaptation.
 
 -Flexibility: Highly flexible; changes are welcome and often integrated during the process.
@@ -72,15 +79,20 @@ b.Agile Methodology
 
 real world exampleDynamic and Evolving Projects: Projects where requirements are expected to change, such as software development or product design for rapidly changing markets
 
+
 5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 //Answer:
 
 ~Software Developer: Responsible for writing code and implementing software solutions
+
 ~Quality Assurance Engineer: Ensures software quality by designing and executing test 
 plans
+
 ~Project Manager: Oversees the planning, execution, and delivery of software projects
+
 ~System Architect: Designs the overall structure and architecture of software systems
+
 ~ UI/UX Designer: Creates user interfaces and designs user experiences for software 
 applications
 
@@ -89,8 +101,10 @@ applications
 //Answer:
  
 Software engineering tools enhance productivity, collaboration, and code quality by providing developers with features such as code editors, version control, debugging tools, and automated testing capabilities
+
 ~ Integrated Development Environments (IDEs): Software suites that provide 
 comprehensive tools for writing, debugging, and testing code. Examples are; Visual Studio, Eclipse and IntelliJ IDEA
+
 ~ Version Control Systems (VCS): Software tools for tracking changes to source code and 
 coordinating work among team members (e.g., Git, Subversion)
 
@@ -100,10 +114,13 @@ coordinating work among team members (e.g., Git, Subversion)
 
 ~Tight Deadlines: Pressure to deliver software products on schedule can result in rushed 
 development and compromised quality
+
 ~ Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can 
 impede future development efforts and increase maintenance costs
+
 ~ Tight Deadlines: Pressure to deliver software products on schedule can result in rushed 
 development and compromised quality
+
 ~ Strategies for Overcoming Challenges: Strategies for overcoming challenges include 
 effective communication, agile methodologies, prioritization of tasks, and regular 
 reassessment of project goals and timelines
@@ -113,8 +130,11 @@ reassessment of project goals and timelines
 //Answer:
 
 ~ Unit Testing: Testing individual components or modules of software
+
 ~Integration Testing: Testing interactions between different components or subsystems
+
 ~ System Testing: Testing the entire software system as a whole
+
 ~Acceptance Testing: Testing the software against user requirements to ensure it meets user 
 needs
 
@@ -130,6 +150,7 @@ needs
 ~Prompt engineering is the process of designing, crafting, and optimizing the input, known as "prompts," provided to AI models to achieve desired outcomes. In simpler terms, it's like giving clear, specific instructions to ensure the AI responds effectively. Since AI models interpret language to generate responses, the way you frame a question, request, or task can significantly influence the quality and relevance of the output.
 
 ~Why is Prompt Engineering Important?
+
 Maximizing Accuracy: A well-constructed prompt ensures the AI understands what you're asking for, minimizing the chances of misinterpretation or irrelevant answers.
 
 Enhancing Creativity: For creative tasks, such as generating stories or brainstorming, specific yet open-ended prompts can inspire the AI to produce imaginative and diverse responses.
