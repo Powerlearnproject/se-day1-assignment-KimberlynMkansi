@@ -13,6 +13,7 @@ Software engineering is the systematic application of engineering principles, me
 Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare
 
 2.Identify and describe at least three key milestones in the evolution of software engineering.
+
 //Answer:
 High-Level Programming Languages (1950s-1960s): Introduction of languages like FORTRAN and COBOL made coding easier and faster, enabling complex software development.
 
@@ -21,6 +22,7 @@ Structured Programming (1960s-1970s): Modular programming improved readability a
 Object-Oriented Programming (1980s-1990s): OOP languages like C++ and Java enabled reusable and scalable code, transforming software engineering.
 
 3.List and briefly explain the phases of the Software Development Life Cycle.
+
 //Answer:
 ~ Requirements: Gathering and documenting user needs and system requirements.
 ~ Design: Creating high-level and detailed designs of the software architecture and user 
@@ -35,6 +37,7 @@ deployment.
 
 
 4.Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 //Answer:
 a.Waterfall Methodology
 -Structure: Linear and sequential. Each phase (e.g., Requirements, Design, Development, Testing, Deployment) must be completed before moving to the next one.
@@ -66,6 +69,7 @@ b.Agile Methodology
 real world exampleDynamic and Evolving Projects: Projects where requirements are expected to change, such as software development or product design for rapidly changing markets
 
 5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 //Answer:
 ~Software Developer: Responsible for writing code and implementing software solutions
 ~Quality Assurance Engineer: Ensures software quality by designing and executing test 
@@ -76,6 +80,7 @@ plans
 applications
 
 6.Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 //Answer:
  Software engineering tools enhance productivity, collaboration, and code quality by providing developers with features such as code editors, version control, debugging tools, and automated testing capabilities
 ~- Integrated Development Environments (IDEs): Software suites that provide 
@@ -84,6 +89,7 @@ comprehensive tools for writing, debugging, and testing code. Examples are; Visu
 coordinating work among team members (e.g., Git, Subversion)
 
 7.What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 //Answer:
 ~Tight Deadlines: Pressure to deliver software products on schedule can result in rushed 
 development and compromised quality
@@ -96,6 +102,7 @@ effective communication, agile methodologies, prioritization of tasks, and regul
 reassessment of project goals and timelines
 
 8.Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 //Answer:
 ~ Unit Testing: Testing individual components or modules of software
 ~Integration Testing: Testing interactions between different components or subsystems
@@ -109,6 +116,7 @@ needs
 
 
 1.Define prompt engineering and discuss its importance in interacting with AI models.
+
 //Answer:
 Prompt engineering is the process of designing, crafting, and optimizing the input, known as "prompts," provided to AI models to achieve desired outcomes. In simpler terms, it's like giving clear, specific instructions to ensure the AI responds effectively. Since AI models interpret language to generate responses, the way you frame a question, request, or task can significantly influence the quality and relevance of the output.
 
@@ -124,6 +132,7 @@ Tailoring Responses: Through prompt engineering, users can guide AI to adopt spe
 Expanding Applications: It allows users to explore the AI’s full potential, uncovering functionalities that might not be immediately apparent.
 
 2.Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 //Answer:
 Example of a Vague Prompt:"Write about technology."
 
